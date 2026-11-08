@@ -1,6 +1,6 @@
 # Hi there, I'm Prarthana! 👋
 
-### 💻 Computer Science Engineering Student | AI & ML Enthusiast
+### 🎓 B.Tech Computer Science Engineering Student
 
 I'm a Computer Science Engineering student passionate about building practical software solutions and exploring the possibilities of Artificial Intelligence.
 
