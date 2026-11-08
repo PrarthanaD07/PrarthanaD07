@@ -88,18 +88,8 @@ I'm always interested in connecting with fellow developers, learning from others
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrarthanaD07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthanaD07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ⭐ Thanks for visiting my profile!
 
----
 
-⭐ Thanks for visiting my profile!
 
