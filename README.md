@@ -64,7 +64,42 @@ I enjoy learning new technologies, experimenting with ideas, and turning concept
 * Software architecture and testing
 
 ---
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrarthanaD07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthanaD07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ### 🤝 Let's Connect!
 
-I'm always interested in connecting with fellow developers, learning from others
+I'm always interested in connecting with fellow developers, learning from others, and exploring opportunities to collaborate on exciting projects.
+
+<p align="center">
+  <a href="https://github.com/PrarthanaD07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prarthana-d-kattigehally-327212383/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PrarthanaD07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthanaD07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+---
+
+⭐ Thanks for visiting my profile!
+
