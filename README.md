@@ -10,7 +10,7 @@ I enjoy learning new technologies, experimenting with ideas, and turning concept
 
 ### 🚀 About Me
 
-* 🎓 Pursuing B.Tech in Computer Science and Engineering – AI & ML.
+* 🎓 Pursuing B.Tech in Computer Science and Engineering
 * 🌱 Exploring Artificial Intelligence, Machine Learning, Generative AI, and Backend Development.
 * 💡 Interested in building intelligent applications and real-world software solutions.
 * 🔭 Currently working on AI-powered applications and software projects.
